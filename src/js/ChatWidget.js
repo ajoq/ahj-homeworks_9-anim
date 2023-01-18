@@ -57,6 +57,7 @@ export default class ChatWidget {
                     background: red;
                     border-radius: 50%;
                     z-index: 500;
+                    cursor: pointer;
                 }
                 
                 .chat-widget-circle:hover {
